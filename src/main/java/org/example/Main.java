@@ -22,5 +22,9 @@ public class Main {
 
         team.joinDancer(idolDancer1);
         team.joinDancer(streetDancer3);
+
+        System.out.println();
+
+        team.groupDance();
     }
 }
